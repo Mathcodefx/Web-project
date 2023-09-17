@@ -1,0 +1,55 @@
+* {
+	margin:0;
+	padding:0;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+    height: auto;
+    width: auto;
+}
+
+
+
+ 
+
+
+/** navbar **/
+#navbar-index  {
+   background-color: #303030;
+   padding: 15px;    
+
+
+}
+#navbar-index ul{
+margin-left: 27%;
+}
+
+#navbar-index ul li{
+    padding: 0 40px 0;
+    
+}
+
+#navbar-index  a{
+     color: #a1a1a1;
+    
+ }
+
+
+ /** carousel **/
+
+ #carouselExampleInterval img{
+    height: 530px;
+ }
+
